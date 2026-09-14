@@ -1,16 +1,42 @@
-# React + Vite
+# 🚀 React API Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web application built using **HTML, CSS, JavaScript, React, React Router, Tailwind CSS, and API integration**.
 
-Currently, two official plugins are available:
+This project fetches data from an API and displays it in a clean, responsive, and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
 
-## React Compiler
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* React Router
+* Tailwind CSS
+* REST API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+* Responsive design
+* API data fetching
+* React Router navigation
+* Modern UI with Tailwind CSS
+* Dynamic data display
+* User-friendly interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+
+🔗 [View Live Website](YOUR_VERCEL_LINK)
+
+## 📸 Screenshots
+
+### Home Page
+
+### API Page
+
+## 📌 Project Purpose
+
+This project was created to practice **React, API integration, routing, and responsive UI development**.
+
+## 👨‍💻 Developed By
+
+**Nikul Malankiya**
